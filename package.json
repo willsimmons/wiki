@@ -39,7 +39,7 @@
   },
   "dependencies": {
     "auto-load": "~3.0.0",
-    "axios": "~0.16.2",
+    "axios": "~0.19.0",
     "bcryptjs-then": "~1.0.1",
     "bluebird": "~3.5.0",
     "body-parser": "~1.17.2",
